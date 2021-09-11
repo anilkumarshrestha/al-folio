@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
+title: Ecommerce
+description: 
+img: /assets/img/12.jpg
+importance: 3
 category: fun
 ---
 
