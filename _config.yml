@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Eyestocker - Rohit Jain Bafna # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Rohit
 middle_name: Jain
 last_name: Bafna
