@@ -1,6 +1,6 @@
 ---
 layout: page
-title: portfolio
+title: Portfolio
 permalink: /portfolio/
 description: All my works in one place.
 nav: true

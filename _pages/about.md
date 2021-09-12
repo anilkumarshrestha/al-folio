@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: Eyestocker
 
@@ -8,8 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>2nd cross, Chamundishwari Nagar,</p>
-    <p>Devrachahalli, Electronic City Road,</p>
     <p>Bangalore, India.</p>
 
 news: false  # includes a list of news items
