@@ -10,7 +10,6 @@ email: bafnarohit41@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Rohit Jain Bafna, Experienced Photographer with a demonstrated history of working in the Photography industry. Skilled in Photography, Lightroom, Adobe Premiere Pro, Adobe Photoshop, and Video Editing. Strong arts and design professional with a Bachelor's degree focused in Photography from ICAT Design & Media College.
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Maintained by <a href="https://sarbham.com/" target="_blank">Sarbham Technology</a>.
 
 icon: 📸 # the emoji used as the favicon
